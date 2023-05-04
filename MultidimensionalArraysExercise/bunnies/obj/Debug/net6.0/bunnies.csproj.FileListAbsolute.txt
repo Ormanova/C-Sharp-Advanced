@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\bunnies.exe
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\bunnies.deps.json
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\bunnies.runtimeconfig.json
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\bunnies.dll
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\ref\bunnies.dll
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\bin\Debug\net6.0\bunnies.pdb
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.AssemblyInfo.cs
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.dll
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\ref\bunnies.dll
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.pdb
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.genruntimeconfig.cache
+C:\Users\user\source\repos\MultidimensionalArraysExercise\bunnies\obj\Debug\net6.0\bunnies.csproj.AssemblyReference.cache

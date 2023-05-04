@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.exe
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.deps.json
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.runtimeconfig.json
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.runtimeconfig.dev.json
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.dll
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\ref\06.Wardrobe.dll
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\bin\Debug\net5.0\06.Wardrobe.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.AssemblyInfo.cs
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.dll
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\ref\06.Wardrobe.dll
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\06.Wardrobe\obj\Debug\net5.0\06.Wardrobe.genruntimeconfig.cache

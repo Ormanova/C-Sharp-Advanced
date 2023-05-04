@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.exe
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.deps.json
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.json
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.runtimeconfig.dev.json
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.dll
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\ref\05.CountSymbols.dll
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\bin\Debug\net5.0\05.CountSymbols.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.AssemblyInfo.cs
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.dll
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\ref\05.CountSymbols.dll
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\05.CountSymbols\obj\Debug\net5.0\05.CountSymbols.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.exe
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.deps.json
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.runtimeconfig.json
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.runtimeconfig.dev.json
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.dll
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\ref\01.FileOperation.dll
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\bin\Debug\net5.0\01.FileOperation.pdb
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.AssemblyInfo.cs
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.dll
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\ref\01.FileOperation.dll
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.pdb
+C:\Users\user\source\repos\StreamsFilesDirectoriesLab\01.FileOperation\obj\Debug\net5.0\01.FileOperation.genruntimeconfig.cache

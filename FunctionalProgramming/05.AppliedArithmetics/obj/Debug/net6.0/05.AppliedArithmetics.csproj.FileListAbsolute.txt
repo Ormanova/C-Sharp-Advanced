@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.exe
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.deps.json
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.runtimeconfig.json
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.dll
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\ref\05.AppliedArithmetics.dll
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.pdb
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.dll
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\ref\05.AppliedArithmetics.dll
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.pdb
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.genruntimeconfig.cache
+C:\Users\user\source\repos\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.AssemblyReference.cache

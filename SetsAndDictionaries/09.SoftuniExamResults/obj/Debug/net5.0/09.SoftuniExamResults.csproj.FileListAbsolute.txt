@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.exe
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.deps.json
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.runtimeconfig.json
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.runtimeconfig.dev.json
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.dll
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\ref\09.SoftuniExamResults.dll
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\bin\Debug\net5.0\09.SoftuniExamResults.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.AssemblyInfo.cs
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.dll
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\ref\09.SoftuniExamResults.dll
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\09.SoftuniExamResults\obj\Debug\net5.0\09.SoftuniExamResults.genruntimeconfig.cache

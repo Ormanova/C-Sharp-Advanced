@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09b0e8ba-ee73-4f22-8a2c-0dda1dcb56df": {
+      "ProjectGuid": "09b0e8ba-ee73-4f22-8a2c-0dda1dcb56df",
+      "DisplayName": "01.SumMatrixElements",
+      "ColorIndex": 0
+    },
+    "9b4233a2-1bb9-4e5d-8f7f-5b02905de60e": {
+      "ProjectGuid": "9b4233a2-1bb9-4e5d-8f7f-5b02905de60e",
+      "DisplayName": "02.SumMatrixColumns",
+      "ColorIndex": 1
+    },
+    "486edd28-efa4-4c2c-85e5-02af8eeb599e": {
+      "ProjectGuid": "486edd28-efa4-4c2c-85e5-02af8eeb599e",
+      "DisplayName": "03.PrimaryDiagonal",
+      "ColorIndex": 2
+    },
+    "a3986e9d-4753-4d73-872b-578cc67b9ffb": {
+      "ProjectGuid": "a3986e9d-4753-4d73-872b-578cc67b9ffb",
+      "DisplayName": "04.SymbolInMatrix",
+      "ColorIndex": 3
+    },
+    "042d1306-62fc-48a3-8cd3-0be57ad26872": {
+      "ProjectGuid": "042d1306-62fc-48a3-8cd3-0be57ad26872",
+      "DisplayName": "05.SquareWithMaximumSum",
+      "ColorIndex": 4
+    },
+    "c56b7dc6-8274-4a3b-94b5-56e6845e01d7": {
+      "ProjectGuid": "c56b7dc6-8274-4a3b-94b5-56e6845e01d7",
+      "DisplayName": "06.JaggedArrayModification",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a62a146c-b7df-484e-8124-9def5a6c94d9": {
+      "ProjectGuid": "a62a146c-b7df-484e-8124-9def5a6c94d9",
+      "DisplayName": "04.MatrixShuffling",
+      "ColorIndex": 0
+    },
+    "d6f94eb1-7bba-4ec4-b600-77344e053597": {
+      "ProjectGuid": "d6f94eb1-7bba-4ec4-b600-77344e053597",
+      "DisplayName": "05.SnakeMoves",
+      "ColorIndex": 1
+    },
+    "223425d9-e4d5-4292-a7db-0598899e59e9": {
+      "ProjectGuid": "223425d9-e4d5-4292-a7db-0598899e59e9",
+      "DisplayName": "06.JaggedArrayManipulator",
+      "ColorIndex": 2
+    },
+    "ab65ed55-9434-4ecb-8f33-77fea86894a2": {
+      "ProjectGuid": "ab65ed55-9434-4ecb-8f33-77fea86894a2",
+      "DisplayName": "07.KnightGame",
+      "ColorIndex": 3
+    },
+    "e91f4b7d-6552-44e1-b6e0-200be75e1f06": {
+      "ProjectGuid": "e91f4b7d-6552-44e1-b6e0-200be75e1f06",
+      "DisplayName": "08.Bombs",
+      "ColorIndex": 4
+    },
+    "0898ae67-05d7-4265-9929-a4edacf482af": {
+      "ProjectGuid": "0898ae67-05d7-4265-9929-a4edacf482af",
+      "DisplayName": "b",
+      "ColorIndex": 5
+    },
+    "54657722-20f7-4466-a81b-1e6b17f62761": {
+      "ProjectGuid": "54657722-20f7-4466-a81b-1e6b17f62761",
+      "DisplayName": "09.Miner",
+      "ColorIndex": 6
+    },
+    "b8802d0b-8635-4c30-bb76-6daba3040ab9": {
+      "ProjectGuid": "b8802d0b-8635-4c30-bb76-6daba3040ab9",
+      "DisplayName": "10.RadioactiveBunnies",
+      "ColorIndex": 7
+    },
+    "f4019271-4caa-4d0a-8cb5-ee8c7e54a643": {
+      "ProjectGuid": "f4019271-4caa-4d0a-8cb5-ee8c7e54a643",
+      "DisplayName": "bunnies",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

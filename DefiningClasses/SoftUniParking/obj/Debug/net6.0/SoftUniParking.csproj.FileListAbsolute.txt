@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\ref\SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\ref\SoftUniParking.dll
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\user\source\repos\DefiningClasses\SoftUniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache

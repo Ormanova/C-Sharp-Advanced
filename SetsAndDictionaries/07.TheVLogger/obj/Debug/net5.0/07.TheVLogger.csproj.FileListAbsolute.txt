@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.AssemblyInfo.cs
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.exe
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.deps.json
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.runtimeconfig.json
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.runtimeconfig.dev.json
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.dll
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\ref\07.TheVLogger.dll
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\bin\Debug\net5.0\07.TheVLogger.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.dll
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\ref\07.TheVLogger.dll
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.pdb
+C:\Users\user\source\repos\SetsAndDictionaries\07.TheVLogger\obj\Debug\net5.0\07.TheVLogger.genruntimeconfig.cache

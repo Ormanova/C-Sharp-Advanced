@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd9af447-08c4-47bc-a1c7-4b94d2e1ee77": {
+      "ProjectGuid": "dd9af447-08c4-47bc-a1c7-4b94d2e1ee77",
+      "DisplayName": "Demo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "38b8db66-9967-4e7a-b399-420d694b55d7": {
+      "ProjectGuid": "38b8db66-9967-4e7a-b399-420d694b55d7",
+      "DisplayName": "05.AppliedArithmetics",
+      "ColorIndex": 1
+    },
+    "0be3df2a-acf6-4b6d-8f59-84e933612798": {
+      "ProjectGuid": "0be3df2a-acf6-4b6d-8f59-84e933612798",
+      "DisplayName": "04.FindEvenOrOdds",
+      "ColorIndex": 2
+    },
+    "c2f49510-5153-4908-aac1-6e435735b0f8": {
+      "ProjectGuid": "c2f49510-5153-4908-aac1-6e435735b0f8",
+      "DisplayName": "03.CustomMinFunction",
+      "ColorIndex": 3
+    },
+    "041143a1-0043-4a56-9302-d721ebb55a15": {
+      "ProjectGuid": "041143a1-0043-4a56-9302-d721ebb55a15",
+      "DisplayName": "02.KnightsOfHonor",
+      "ColorIndex": 4
+    },
+    "ab9d984d-6336-48fc-a1cb-7c86e0e36ae5": {
+      "ProjectGuid": "ab9d984d-6336-48fc-a1cb-7c86e0e36ae5",
+      "DisplayName": "01.ActionPoint",
+      "ColorIndex": 5
+    },
+    "103e74a1-40cb-4b38-bca3-99c6a1f46a8f": {
+      "ProjectGuid": "103e74a1-40cb-4b38-bca3-99c6a1f46a8f",
+      "DisplayName": "06.ReverseAndExclude",
+      "ColorIndex": 6
+    },
+    "5e660aaa-e6f4-4987-932b-72e235142d9b": {
+      "ProjectGuid": "5e660aaa-e6f4-4987-932b-72e235142d9b",
+      "DisplayName": "07.PredicateForNames",
+      "ColorIndex": 7
+    },
+    "b3be6f74-95a5-4530-afd7-468b40d3cde8": {
+      "ProjectGuid": "b3be6f74-95a5-4530-afd7-468b40d3cde8",
+      "DisplayName": "08.ListOfPredicates",
+      "ColorIndex": 8
+    },
+    "1c0813b7-4b5e-44dc-aef8-f16506b2728f": {
+      "ProjectGuid": "1c0813b7-4b5e-44dc-aef8-f16506b2728f",
+      "DisplayName": "08.",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

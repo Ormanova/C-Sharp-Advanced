@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e7fb995-50b4-41cb-8490-ab9bd85cda78": {
+      "ProjectGuid": "9e7fb995-50b4-41cb-8490-ab9bd85cda78",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 0
+    },
+    "0140c275-1e5a-45a4-ac82-eb60d7df4423": {
+      "ProjectGuid": "0140c275-1e5a-45a4-ac82-eb60d7df4423",
+      "DisplayName": "Constructors",
+      "ColorIndex": 1
+    },
+    "82418c24-94c3-4eee-8c12-fea96daea45d": {
+      "ProjectGuid": "82418c24-94c3-4eee-8c12-fea96daea45d",
+      "DisplayName": "DefiningClasses",
+      "ColorIndex": 2
+    },
+    "191d0951-c154-40ad-b45e-2b313007351b": {
+      "ProjectGuid": "191d0951-c154-40ad-b45e-2b313007351b",
+      "DisplayName": "DefiningClasses",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6e5c375c-35db-4e0b-a526-271da1259a70": {
+      "ProjectGuid": "6e5c375c-35db-4e0b-a526-271da1259a70",
+      "DisplayName": "06.SpeedRacing",
+      "ColorIndex": 4
+    },
+    "6bc5535f-ca78-4d84-a6f7-4ec0c4f6a30c": {
+      "ProjectGuid": "6bc5535f-ca78-4d84-a6f7-4ec0c4f6a30c",
+      "DisplayName": "07.RawData",
+      "ColorIndex": 5
+    },
+    "2fe953b0-153c-452f-b41e-d41921504f08": {
+      "ProjectGuid": "2fe953b0-153c-452f-b41e-d41921504f08",
+      "DisplayName": "CarSalesman",
+      "ColorIndex": 6
+    },
+    "16843a75-f92a-4704-b578-1f676648c781": {
+      "ProjectGuid": "16843a75-f92a-4704-b578-1f676648c781",
+      "DisplayName": "PokemonTrainer",
+      "ColorIndex": 7
+    },
+    "903bb1ee-1846-460e-b944-4be91bd77846": {
+      "ProjectGuid": "903bb1ee-1846-460e-b944-4be91bd77846",
+      "DisplayName": "SoftUniParking",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

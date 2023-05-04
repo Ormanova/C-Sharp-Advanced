@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.exe
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.deps.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\ref\03.PrimaryDiagonal.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\bin\Debug\net5.0\03.PrimaryDiagonal.pdb
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\ref\03.PrimaryDiagonal.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.pdb
+C:\Users\user\source\repos\MultidimentionalArraysLab\03.PrimaryDiagonal\obj\Debug\net5.0\03.PrimaryDiagonal.genruntimeconfig.cache

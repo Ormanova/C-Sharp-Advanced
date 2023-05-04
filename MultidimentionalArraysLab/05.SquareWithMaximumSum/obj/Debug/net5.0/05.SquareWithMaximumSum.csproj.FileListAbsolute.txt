@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.exe
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.deps.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\ref\05.SquareWithMaximumSum.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\bin\Debug\net5.0\05.SquareWithMaximumSum.pdb
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\ref\05.SquareWithMaximumSum.dll
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.pdb
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.genruntimeconfig.cache
+C:\Users\user\source\repos\MultidimentionalArraysLab\05.SquareWithMaximumSum\obj\Debug\net5.0\05.SquareWithMaximumSum.csproj.AssemblyReference.cache
